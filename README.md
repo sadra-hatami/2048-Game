@@ -51,7 +51,7 @@ A 4×4 board in the terminal. Slide the tiles, merge equals, and keep going unti
 
 # 📖 About
 
-**2048 Game** is a console puzzle written in C++.
+**2048-Game** is a console puzzle written in C++.
 
 The board is 4×4. Arrow keys slide every tile in one direction. Two tiles with the same value merge into the next value. A new tile appears after a real move. The round ends when no slide can change the board.
 
