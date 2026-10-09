@@ -1,6 +1,6 @@
 <div align="center">
 
-# 2048 Game
+# 2048-Game
 # 🔢
 
 ### A C++ console version of the sliding-tile game
