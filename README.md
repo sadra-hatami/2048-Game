@@ -20,7 +20,6 @@ A 4×4 board in the terminal. Slide the tiles, merge equals, and keep going unti
 [![Game](https://img.shields.io/badge/Genre-Puzzle-8E44AD?style=for-the-badge)](https://en.wikipedia.org/wiki/2048_(video_game))
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
 ![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/2048-Game?style=for-the-badge)](https://github.com/sadra-hatami/2048-Game/stargazers)
 
 <br>
 
